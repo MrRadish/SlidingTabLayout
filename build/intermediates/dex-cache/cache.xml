@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudio\SlidingTabLayout\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\AndroidStudio\SlidingTabLayout\app\build\intermediates\pre-dexed\debug\classes-5f44a48740fe8bce39559f30933f09c8354be7fe.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\SlidingTabLayout\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\AndroidStudio\SlidingTabLayout\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-8c99fedb6d241a6a9bbfd194d9747c528ad09514.jar" />
+    </item>
+    <item
+        jar="D:\1423\SDK_NEW\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\AndroidStudio\SlidingTabLayout\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-46c51793cd8beaea72bb095ed1b7426ae1fefc4a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\SlidingTabLayout\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\AndroidStudio\SlidingTabLayout\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14-9888681859f1895b3e6a3ca59509653a4307b66b.jar" />
+    </item>
+
+</items>

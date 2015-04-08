@@ -1,0 +1,5 @@
+D:\AndroidStudio\SlidingTabLayout\app\build\intermediates\classes\debug
+D:\AndroidStudio\SlidingTabLayout\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-46c51793cd8beaea72bb095ed1b7426ae1fefc4a.jar
+D:\AndroidStudio\SlidingTabLayout\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-8c99fedb6d241a6a9bbfd194d9747c528ad09514.jar
+D:\AndroidStudio\SlidingTabLayout\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14-9888681859f1895b3e6a3ca59509653a4307b66b.jar
+D:\AndroidStudio\SlidingTabLayout\app\build\intermediates\pre-dexed\debug\classes-5f44a48740fe8bce39559f30933f09c8354be7fe.jar
